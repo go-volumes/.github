@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://go-volumes.github.io/docs/"><img src="https://img.shields.io/badge/docs-mkdocs--material-0A6E96?style=flat-square&logo=materialformkdocs&logoColor=white" alt="docs"></a>
   <img src="https://img.shields.io/badge/Go-1.26-00ADD8?style=flat-square&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/license-MIT-0A6E96?style=flat-square">
+  <img src="https://img.shields.io/badge/license-BSD--3--Clause-0A6E96?style=flat-square">
   <a href="https://github.com/go-filesystems"><img src="https://img.shields.io/badge/pairs%20with-go--filesystems-0079A8?style=flat-square"></a>
 </p>
 
