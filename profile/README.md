@@ -3,6 +3,7 @@
 <h1 align="center">go-volumes</h1>
 <p align="center">Pure-Go block storage — a copy-on-write volume pool plus pluggable backings. No cgo, no root.</p>
 <p align="center">
+  <a href="https://go-volumes.github.io/"><img src="https://img.shields.io/badge/website-go--volumes.github.io-0A6E96?style=flat-square&logo=githubpages&logoColor=white" alt="website"></a>
   <a href="https://go-volumes.github.io/docs/"><img src="https://img.shields.io/badge/docs-mkdocs--material-0A6E96?style=flat-square&logo=materialformkdocs&logoColor=white" alt="docs"></a>
   <img src="https://img.shields.io/badge/Go-1.26-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/license-BSD--3--Clause-0A6E96?style=flat-square">
@@ -31,6 +32,7 @@ object storage, or an immutable OCI artifact. Put a filesystem (e.g. via
 
 ## Links
 
+- 🌐 Website — <https://go-volumes.github.io/>
 - 📖 Docs — <https://go-volumes.github.io/docs/>
 - 🎨 Brand assets — <https://github.com/go-volumes/brand>
 
